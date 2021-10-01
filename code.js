@@ -7,3 +7,5 @@ function add( ){
 }
 // calling the function
 add();
+
+//writing new add function
